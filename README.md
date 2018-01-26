@@ -1,11 +1,2 @@
 # betterlabdemo
-heres a thing
-
-These are Mischa's awesome changes
-miiiinnneee
-
-coolio bro I think line 7 is theeeee best
-
-i am writing something on line 7 just beacyse i want too lololol
-
-i am going to ruin your life with this line of code
+my awesome new feautre
