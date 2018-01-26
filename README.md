@@ -1,2 +1,2 @@
 # betterlabdemo
-my awesome new feautre
+my awesome new feature
